@@ -12,6 +12,8 @@ https://registry.terraform.io/providers/confluentinc/confluent/latest/docs/guide
 
 https://docs.confluent.io/cloud/current/overview.html
 
+https://docs.confluent.io/cloud/current/api.html#tag/Topic-(v3)
+
 ## 📈 In 3 broad steps:
 
 1. Create trial confluent account, create a service account, assign `OrganizationAdmin` role to the service account, & create a cloud api key for the service account
@@ -59,3 +61,5 @@ You have to set up with a credit card which is a little concerning, even if they
 ## 🛝 More Examples to reference for more advanced/custom stuff
 
 https://github.com/confluentinc/terraform-provider-confluent/tree/master/examples/configurations
+
+https://asciinema.org/a/580630
